@@ -1,5 +1,5 @@
 # csv_to_xlsx_01
-[Testing using a branch to update and then commit to main]. Converts and formats a CSV to XLSX.
+[Testing using a branch to update and then commit to main]. Converts and formats a specific CSV to XLSX.
 
 This script accepts a specifically formatted CSV (included in the repository).
 This CSV emulates an export from a shot management software or shot database.
