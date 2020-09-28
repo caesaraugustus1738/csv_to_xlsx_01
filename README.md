@@ -1,5 +1,5 @@
 # csv_to_xlsx_01
-Converts and formats a CSV to XLSX
+Converts and formats a CSV to XLSX.
 This script accepts a specifically formatted CSV (included in the repository).
 It emulates an export from a shot management software or shot database.
 The purpose of this project is to familiarise myself with converting CSV to XLSX files, and manipulating XLSX files.
